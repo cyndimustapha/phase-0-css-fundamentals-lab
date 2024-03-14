@@ -11,13 +11,9 @@ header{
   text-align: center;
 
 }
-
-header nav{
-
-  padding-left: 10px;
-  padding-right: 10px;
-
-  background-color:cornsilk;
+header a{
+  padding: 10px;
+  background-color: cornsilk;
 }
 
 #featured-property figcaption{
